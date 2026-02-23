@@ -80,7 +80,7 @@ Developed an interactive dashboard showing:
 
 ---
 
-##👤 Author
+## 👤 Author
 
 ##  Pratik Patil
-## Data Analyst | Python | SQL | Power BI
+Data Analyst | Python | SQL | Power BI
